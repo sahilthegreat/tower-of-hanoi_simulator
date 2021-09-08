@@ -1,0 +1,62 @@
+.fir{
+    position: relative;
+    top: 0px;
+    left:50px;
+    height: 150px;
+    width: 25px;
+}
+.fir2{
+    position: relative;
+    top: 0px;
+    left:150px;
+    height: 150px;
+    width: 25px;
+}
+.fir3{
+    position: relative;
+    top: 0px;
+    left:250px;
+    height: 150px;
+    width: 25px;
+}
+.bead1{
+    position: absolute;
+    top: 125px;
+    left: 20px;
+    height: 25px;
+    width: 100px;
+}
+.bead2{
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    height: 25px;
+    width: 100px;
+}
+.bead3{
+    position: absolute;
+    top: 75px;
+    left: 20px;
+    height: 25px;
+    width: 100px;
+}   
+button {
+    background-color: grey; /* Green */
+    border: none;
+    color: black;
+    padding: 8px 8px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    position: absolute;
+    top: 200px;
+    left: 170px;
+  }
+#para{
+    position:absolute;
+    top: 230px;
+    left: 100px;
+}
+body{
+    display: flex;
+}
